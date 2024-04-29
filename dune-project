@@ -4,6 +4,8 @@
 
 (generate_opam_files true)
 
+(name ppx_deriving_json)
+
 (source
  (github andreypopp/ppx_deriving_json))
 
